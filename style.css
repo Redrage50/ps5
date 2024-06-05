@@ -1,0 +1,12 @@
+.Ready {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.see {
+   background-image: url(./ps5img.webp);
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center center;
+}
